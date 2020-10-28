@@ -2,6 +2,7 @@
 <html>
 <head>
 <style>
+<body>
 table, th, td {
   border: 1px white;
   padding: 5px;
@@ -9,9 +10,10 @@ table, th, td {
 table {
   border-spacing: 15px;
 }
+<body style="background-color:solidblack";>
+</body>
 </style>
 </head>
-<body style="background-color:solidblack";>
 <img src="WOW_icon.svg.png" alt="WOW logo">
 <h1 style="color:white;">World of Warcraft class roles</h1>
 <p style="color:white;"> 
