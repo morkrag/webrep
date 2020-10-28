@@ -1,8 +1,7 @@
-<!DOCTYPE html>
+<!WOW class table>
 <html>
 <head>
 <style>
-<body>
 table, th, td {
   border: 1px white;
   padding: 5px;
@@ -10,15 +9,15 @@ table, th, td {
 table {
   border-spacing: 15px;
 }
-<body style="background-color:solidblack";>
-</body>
 </style>
 </head>
+
+<body style="background-color:black";>
 <img src="WOW_icon.svg.png" alt="WOW logo">
 <h1 style="color:white;">World of Warcraft class roles</h1>
 <p style="color:white;"> 
 We all know worldwide famous MMORPG World of Warcraft. There are different races, abilities, proffessions and classes.
-This webpage main idea is howing table of all classes and their roles in team.
+This webpage main idea is showing table of all classes and their roles.
  </p>
 <hr>
 <table style="width:100%;">
@@ -41,20 +40,20 @@ This webpage main idea is howing table of all classes and their roles in team.
     <td style="color:green;">-</td>
   </tr>
   <tr>
-    <td style="color:yellow>Rogue</td>
-    <td style="color:yellow>-</td>
-    <td style="color:yellow>+</td>
-    <td style="color:yellow>-</td>
+    <td style="color:yellow;">Rogue</td>
+    <td style="color:yellow;">-</td>
+    <td style="color:yellow;">+</td>
+    <td style="color:yellow;">-</td>
   </tr>
   <tr>
-    <td style="color:blue:>Mage</td>
-    <td style="color:blue:>-</td>
-    <td style="color:blue:>+</td>
-    <td style="color:blue:>-</td>
+    <td style="color:blue;">Mage</td>
+    <td style="color:blue;">-</td>
+    <td style="color:blue;">+</td>
+    <td style="color:blue;">-</td>
   </tr>
   <tr>
     <td style="color:white;">Priest</td>
-    <td style="color:white";>-</td>
+    <td style="color:white;">-</td>
     <td style="color:white;">+</td>
     <td style="color:white;">+</td>
   </tr>
@@ -82,4 +81,7 @@ This webpage main idea is howing table of all classes and their roles in team.
     <td style="color:orange;">+</td>
     <td style="color:orange;">+</td>
   </tr>
-    
+</table>
+<hr>
+<a href="https://taltech.ee/">visit university webpage</a>
+</body>
