@@ -1,9 +1,15 @@
 <!WOW class table>
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 table, th, td {
-  border: 1px solid white;
+  border: 1px solid grey;
   padding: 5px;
 }
 table {
@@ -13,69 +19,69 @@ table {
 </head>
 
 <body style="background-color:black";>
-<img src="WOW_icon.svg.png" alt="WOW logo">
-<h1 style="color:white;">World of Warcraft class roles</h1>
-<p style="color:white;"> 
+<img src="wow.jpg" alt="WOW logo" class="center">
+<h1 style="color:lightgrey;text-align:center;">World of Warcraft class roles</h1>
+<p style="color:lightgrey;text-align:center;"> 
 We all know worldwide famous MMORPG World of Warcraft. There are different races, abilities, proffessions and classes.
-This webpage main idea is showing table of all classes and their roles.
+This webpage main idea is showing table of all classes roles in single and team play.
  </p>
 <hr>
-<table style="width:100%;">
+<table style="width:100%;color:lightgrey;">
   <tr>
-    <th style="color:white";>Class</th>
-    <th style="color:white";>Tank</th>
-    <th style="color:white";>Damage Dealer</th>
-    <th style="color:white";>Healer</th>
+    <th>Class</th>
+    <th>Tank</th>
+    <th>Damage Dealer</th>
+    <th>Healer</th>
   </tr>
-  <tr>
+  <tr style="text-align:center;">
     <td style="color:red;">Warrior</td>
     <td style="color:red;">+</td>
     <td style="color:red;">+</td>
     <td style="color:red;">-</td>
   </tr>
-  <tr>
+  <tr style="text-align:center;">
     <td style="color:green;">Hunter</td>
     <td style="color:green;">-</td>
     <td style="color:green;">+</td>
     <td style="color:green;">-</td>
   </tr>
-  <tr>
+  <tr style="text-align:center;">
     <td style="color:yellow;">Rogue</td>
     <td style="color:yellow;">-</td>
     <td style="color:yellow;">+</td>
     <td style="color:yellow;">-</td>
   </tr>
-  <tr>
+  <tr style="text-align:center;">
     <td style="color:blue;">Mage</td>
     <td style="color:blue;">-</td>
     <td style="color:blue;">+</td>
     <td style="color:blue;">-</td>
   </tr>
-  <tr>
+  <tr style="text-align:center;">
     <td style="color:white;">Priest</td>
     <td style="color:white;">-</td>
     <td style="color:white;">+</td>
     <td style="color:white;">+</td>
   </tr>
-  <tr>
-    <td style="color:purple;">Warlock</td>
-    <td style="color:purple;">-</td>
-    <td style="color:purple;">+</td>
-    <td style="color:purple;">-</td>
-  </tr>
-  <tr>
+  <tr style="text-align:center;">
     <td style="color:pink;">Paladin</td>
     <td style="color:pink;">+</td>
     <td style="color:pink;">+</td>
     <td style="color:pink;">+</td>
   </tr>
-  <tr>
+  <tr style="text-align:center;">
+    <td style="color:purple;">Warlock</td>
+    <td style="color:purple;">-</td>
+    <td style="color:purple;">+</td>
+    <td style="color:purple;">-</td>
+  </tr>
+  <tr style="text-align:center;">
     <td style="color:brown;">Druid</td>
     <td style="color:pink;">+</td>
     <td style="color:pink;">+</td>
     <td style="color:pink;">+</td>
   </tr>
-  <tr>
+  <tr style="text-align:center;">
     <td style="color:orange;">Shaman</td>
     <td style="color:orange;">-</td>
     <td style="color:orange;">+</td>
@@ -84,7 +90,7 @@ This webpage main idea is showing table of all classes and their roles.
 </table>
 <hr>
 <a href="https://taltech.ee/">taltech.ee</a>
-<h2 style="color:white;"> Matriklinumber: 206043IAIB
+<p style="color:lightgrey;text-align:center;"> Matriklinumber: 206043IAIB</p>
 </style>
 </head>
 </body>
