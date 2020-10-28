@@ -3,7 +3,7 @@
 <head>
 <style>
 table, th, td {
-  border: 1px white;
+  border: 1px solid white;
   padding: 5px;
 }
 table {
@@ -83,6 +83,9 @@ This webpage main idea is showing table of all classes and their roles.
   </tr>
 </table>
 <hr>
-<a href="https://taltech.ee/">visit university webpage</a>
+<a href="https://taltech.ee/">taltech.ee</a>
 <h2 style="color:white;"> Matriklinumber: 206043IAIB
+</style>
+</head>
 </body>
+</html>
