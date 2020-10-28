@@ -1,1 +1,69 @@
-<h1>World of Warcraft</h1>
+<img src="WOW_icon.svg.png" alt="WOW logo">
+<h1>World of Warcraft class roles</h1>
+<p> 
+We all know worldwide famous MMORPG World of Warcraft. There are different races, abilities, proffessions and classes.
+This webpage main idea is howing table of all classes and their roles in team.
+ </p>
+<hr>
+<table style="width:100%">
+  <tr>
+    <th>Class</th>
+    <th>Tank</th>
+    <th>Damage Dealer</th>
+    <th>Healer</th>
+  </tr>
+  <tr>
+    <td>Warrior</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Hunter</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Rogue</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Mage</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Priest</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+  </tr>
+  <tr>
+    <td>Warlock</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Paladin</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+  </tr>
+  <tr>
+    <td>Druid</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+  </tr>
+  <tr>
+    <td>Shaman</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+  </tr>
+    
